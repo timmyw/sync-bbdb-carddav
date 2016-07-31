@@ -3,5 +3,5 @@ Sync CardDAV and BBDB address books
 
 ## Setup
 
-```npm install
-```
+`npm install
+`
