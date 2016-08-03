@@ -1,0 +1,5 @@
+* Notes
+
++ BBDB parser (~parsec~)
++ Dav interface (https://hackage.haskell.org/package/DAV)
+
